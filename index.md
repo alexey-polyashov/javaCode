@@ -10,12 +10,13 @@
 
 ## Учебные проекты:
 
-1. [один][1]
-2. [два][2]
-3.
+1. [Онлайн магазин][1]
+2. [Облачное хранилище файлов][2]
+3. [Простой чат][3]
 
-[1]: https://google.ru "Гугл" 
-[2]: https://yandex.ru "Яндекс"
+[1]: https://github.com/alexey-polyashov/javaCode/projects/3 "Онлайн магазин" 
+[2]: https://github.com/alexey-polyashov/javaCode/projects/2 "Облачное хранилище файлов"
+[3]: https://github.com/alexey-polyashov/javaCode/projects/1 "Прочтой чат"
 
 ## Где я получил опыт программирования на Java:
 1. Курс на geeckbrains
