@@ -16,11 +16,12 @@
 
 [1]: https://github.com/alexey-polyashov/javaCode/projects/3 "Онлайн магазин" 
 [2]: https://github.com/alexey-polyashov/javaCode/projects/2 "Облачное хранилище файлов"
-[3]: https://github.com/alexey-polyashov/javaCode/projects/1 "Прочтой чат"
+[3]: https://github.com/alexey-polyashov/Simple-chat "Простой чат"
 
 ## Где я получил опыт программирования на Java:
 1. Курс на geeckbrains
 2. Книги: 
+3. 
 
 
 ## Образование:
