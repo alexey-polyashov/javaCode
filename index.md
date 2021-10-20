@@ -17,7 +17,7 @@
 
 [1]: https://github.com/alexey-polyashov/javaCode/projects/3 "Онлайн магазин"
 [2]: https://github.com/alexey-polyashov/StarWars/tree/master "Игра StarWars"
-[3]: https://github.com/alexey-polyashov/javaCode/projects/2 "Облачное хранилище файлов"
+[3]: https://github.com/alexey-polyashov/FileCloud "Облачное хранилище файлов"
 [4]: https://github.com/alexey-polyashov/Simple-chat "Простой чат"
 
 ## Где я получил опыт программирования на Java:
