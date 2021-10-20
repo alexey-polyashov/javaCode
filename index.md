@@ -28,7 +28,7 @@
 [3]: https://github.com/alexey-polyashov/FileCloud "Облачное хранилище файлов"
 [4]: https://github.com/alexey-polyashov/Simple-chat "Простой чат"
 
-## Источники получения опыта и знаний на Java:
+## Источники получения опыта и знаний:
 1. Курс на geeckbrains
 2. Книги: Java руководство для начинающих Герберт Шлдт, Грокаем алгоритмы.
 
