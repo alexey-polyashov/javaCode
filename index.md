@@ -11,12 +11,14 @@
 ## Учебные проекты:
 
 1. [Онлайн магазин][1]
-2. [Облачное хранилище файлов][2]
-3. [Простой чат][3]
+2. [Игра StarWars на LibGDX][2]
+3. [Облачное хранилище файлов][3]
+4. [Простой чат][4]
 
-[1]: https://github.com/alexey-polyashov/javaCode/projects/3 "Онлайн магазин" 
-[2]: https://github.com/alexey-polyashov/javaCode/projects/2 "Облачное хранилище файлов"
-[3]: https://github.com/alexey-polyashov/Simple-chat "Простой чат"
+[1]: https://github.com/alexey-polyashov/javaCode/projects/3 "Онлайн магазин"
+[2]: https://github.com/alexey-polyashov/StarWars/tree/master "Игра StarWars"
+[3]: https://github.com/alexey-polyashov/javaCode/projects/2 "Облачное хранилище файлов"
+[4]: https://github.com/alexey-polyashov/Simple-chat "Простой чат"
 
 ## Где я получил опыт программирования на Java:
 1. Курс на geeckbrains
