@@ -8,26 +8,27 @@
 1. Java Core
 2. ООП
 3. Применение на практике основных структур данных и патернов проектирования
-4. Использование многопоточности.
-5. Работа с базами данных (MySQL, PostgreSQL, H2).
-6. FlyWay для инициализации базы данных.
-7. Spring.
-8. Hibernate.
-9. Maven.
-10. Проектирование интерфейса на JavaFX.
-11. Базовые навыки работы с GIT
-12. Навыки командной разработки
-13. Программирование на платформе 1С
+4. Использование многопоточности
+5. Работа с базами данных (MySQL, PostgreSQL, H2)
+6. FlyWay для инициализации базы данных
+7. Spring
+8. Hibernate
+9. Maven
+10. JSON
+11. Проектирование интерфейса на JavaFX.
+12. Базовые навыки работы с GIT
+13. Навыки командной разработки
+14. Программирование на платформе 1С
 
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/8…7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/8…f2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/8…f2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-<img align="left" width="36px" src="	https://raw.githubusercontent.com/github/explore/8…50fe8e3517d3494d/topics/postgresql/postgresql.png"/>
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/8…fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/8…fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
-
-
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
 ## Учебные проекты:
 
