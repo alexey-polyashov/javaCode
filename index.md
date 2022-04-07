@@ -20,7 +20,7 @@
 13. Навыки командной разработки
 14. Программирование на платформе 1С
 
-:html:
+:php:
 
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
@@ -57,6 +57,6 @@
 
 ## Мои интересы и хоби
  - Программирование :computer:
- - Фотография
+ - Фотография :photo:
  - Резьба по дереву
 
