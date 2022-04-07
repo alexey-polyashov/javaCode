@@ -5,7 +5,7 @@
 >Начинающий JAVA разработчик
 
 ## Мои Навыки:
-1. Java Core [<img width="36px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>]
+1. Java Core [<img align="baseline" width="36px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>]
 2. ООП
 3. Применение на практике основных структур данных и патернов проектирования
 4. Использование многопоточности.
