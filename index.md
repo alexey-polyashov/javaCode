@@ -8,7 +8,7 @@
 1. Java Core
 2. ООП
 3. Применение на практике основных структур данных и патернов проектирования
-4. Многопоточность.
+4. Использование многопоточности.
 5. Работа с базами данных (MySQL, PostgreSQL, H2).
 6. FlyWay для инициализации базы данных.
 7. Spring.
@@ -18,15 +18,17 @@
 
 ## Учебные проекты:
 
-1. [Онлайн магазин( в разработке )][1]
-2. [Игра StarWars на LibGDX][2]
-3. [Облачное хранилище файлов][3]
-4. [Простой чат][4]
+1. [BrainDocs - электронный документооборот][1]
+2. [Онлайн магазин][2]
+3. [Игра StarWars на LibGDX][3]
+4. [Облачное хранилище файлов][4]
+5. [Простой чат][5]
 
-[1]: https://github.com/alexey-polyashov/OnlineCart/ "Онлайн магазин"
-[2]: https://github.com/alexey-polyashov/StarWars/tree/master "Игра StarWars"
-[3]: https://github.com/alexey-polyashov/FileCloud "Облачное хранилище файлов"
-[4]: https://github.com/alexey-polyashov/Simple-chat "Простой чат"
+[1]: https://github.com/alexey-polyashov/BrainDocs_Project/ "Командный проект по созданию системы электронного документооборота"
+[2]: https://github.com/alexey-polyashov/OnlineCart/ "Онлайн магазин"
+[3]: https://github.com/alexey-polyashov/StarWars/tree/master "Игра StarWars"
+[4]: https://github.com/alexey-polyashov/FileCloud "Облачное хранилище файлов"
+[5]: https://github.com/alexey-polyashov/Simple-chat "Простой чат"
 
 ## Источники получения опыта и знаний:
 1. Курс на geeckbrains
