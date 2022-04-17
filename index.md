@@ -41,7 +41,7 @@
 4. [Облачное хранилище файлов][4]
 5. [Простой чат][5]
 
-[1]: https://github.com/alexey-polyashov/BrainDocs_Project/ "Командный проект по созданию системы электронного документооборота"
+[1]: https://github.com/alexey-polyashov/BrainDocs_Project/ "Командный проект по созданию системы электронного документооборота (моя роль в проекте - владелец продукта и тимлид)"
 [2]: https://github.com/alexey-polyashov/OnlineCart/ "Онлайн магазин"
 [3]: https://github.com/alexey-polyashov/StarWars/tree/master "Игра StarWars"
 [4]: https://github.com/alexey-polyashov/FileCloud "Облачное хранилище файлов"
