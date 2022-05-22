@@ -1,9 +1,9 @@
 <img src = "logo.jpg" width=200px>
 
-## Добрый день!
+## Добро пожаловать на моё страницу!
 >Меня зовут Алексей Поляшов.
 >
->Я начинающий JAVA разработчик
+>Люблю программировать. Изучаю Java, знаю 1С.
 
 ## Мои Навыки:
 1. Java Core
@@ -33,7 +33,7 @@
 <img align="middle" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <hr />
 
-## Учебные проекты:
+## Мои проекты:
 
 1. [BrainDocs - электронный документооборот][1]
 2. [Онлайн магазин][2]
